@@ -4,8 +4,7 @@ flask-restful
 flask_apidoc
 flask_cors
 requests
-networkx==1.11
 numpy
 scipy
 ndlib
-dynetx
+gunicorn
